@@ -1,3 +1,3 @@
 # student-dev
 This is my first repo
-Author: Raja
+Author: Raja Padhi
